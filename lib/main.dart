@@ -168,7 +168,7 @@ class _GameScreenState extends State<GameScreen> {
   Timer? gameTimer;
 
   // تعديل معدل ظهور الفواكه (تفاحة كل ثانيتين)
-  double fruitSpawnRate = 1.5;
+  double fruitSpawnRate = 1.0;
 
   @override
   void initState() {

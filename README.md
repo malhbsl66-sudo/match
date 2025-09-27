@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Demo](assets/demo.gif)
 
 This project is a starting point for a Flutter application.
 
