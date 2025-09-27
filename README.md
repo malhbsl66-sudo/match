@@ -3,9 +3,14 @@
 A new Flutter project.
 
 ## Getting Started
-![Demo](assets/demo.gif)
+![Demo](assets/video.gif)
 
-This project is a starting point for a Flutter application.
+#screenshots.
+![](assets/imge1.png)
+![](assets/imge2.png)
+![](assets/imge3.png)
+![](assets/imge4.png)
+![](assets/imge5.png)
 
 A few resources to get you started if this is your first Flutter project:
 
