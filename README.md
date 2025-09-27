@@ -6,11 +6,11 @@ A new Flutter project.
 ![Demo](assets/video.gif)
 
 ## screenshots.
-![](assets/imge1.png)
-![](assets/imge2.png)
-![](assets/imge3.png)
-![](assets/imge4.png)
-![](assets/imge5.png)
+![](assets/imeg1.png)
+![](assets/imeg2.png)
+![](assets/imeg3.png)
+![](assets/imeg4.png)
+![](assets/imeg5.png)
 
 A few resources to get you started if this is your first Flutter project:
 
